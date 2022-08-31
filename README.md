@@ -4,4 +4,4 @@ NPM     : 2106750490
 
 Kelas   : F
 
-Hobi    : Nonton film
+Hobi    : Nonton series
